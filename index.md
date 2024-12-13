@@ -1,3 +1,6 @@
+---
+title: My first Blog
+---
 # Welcome to my portfolio
 
 ## About Me
